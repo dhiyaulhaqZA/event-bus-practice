@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EventBus Test</string>
+    <string name="input_your_name">Input your name</string>
+    <string name="str_save">Save</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="hello">Hello</string>
+    <string name="str_editor">Editor</string>
+</resources>
